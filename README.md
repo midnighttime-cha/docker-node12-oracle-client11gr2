@@ -1,1 +1,2 @@
-# docker-node12-oracle-client11gr2
+# Docker Image สำหรับ NodeJS v12 + Oracle client 11g R2
+
